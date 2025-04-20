@@ -1,0 +1,15 @@
+{
+  "originHash" : "6e42bb3787cd3b72d80b906d768a2299bd74a776dafa7b95da8513c1b76843e9",
+  "pins" : [
+    {
+      "identity" : "flight-recorder-swift-package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pulselabs-ai/flight-recorder-swift-package",
+      "state" : {
+        "revision" : "4ff524d805cc0de3f3bfde218a819999c5e88fea",
+        "version" : "1.5.0"
+      }
+    }
+  ],
+  "version" : 3
+}
