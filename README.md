@@ -186,6 +186,17 @@ npx expo run:android
 
 Note: You cannot use Expo Go since it doesn't support native modules. You must use the development build created by `npx expo prebuild`.
 
+## Triggering FlightRecorder via Device Shake
+
+After installation, you can access the FlightRecorder functionality by shaking the device:
+
+Shaking the device will stop the current recording session and display a sheet where users can:
+- Add additional details about the session
+- Review the recorded interactions
+- Submit the recording to PulseLabs
+
+This behavior works the same way on both iOS and Android platforms.
+
 ## Important Notes for Expo Projects
 
 1. **Native Module Support**: FlightRecorderSDK requires native code, so you cannot use it with Expo Go. You must use development builds.
