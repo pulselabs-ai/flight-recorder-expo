@@ -97,7 +97,7 @@ The FlightRecorderSDK is distributed via GitHub Packages, which requires authent
          // Existing dependencies...
          
          // Material3 dependency required by FlightRecorderSDK
-         implementation 'androidx.compose.material3:material3:1.2.1'
+         implementation("androidx.compose.material3:material3:1.2.1")
          
          // Flight Recorder SDK
          implementation("ai.pulselabs:flightrecorder:1.4.1")
